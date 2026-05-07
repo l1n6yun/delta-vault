@@ -1,0 +1,940 @@
+[
+    {
+        "id": 10350,
+        "objectID": 11010006002,
+        "objectName": "H70 精英头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 6,
+        "weight": "3.58",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010006002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010006002.png",
+        "avgPrice": 1098908,
+        "protectDetail": {
+            "durability": 55,
+            "protectLevel": 6,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10349,
+        "objectID": 11010006003,
+        "objectName": "DICH-9重型头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 6,
+        "weight": "2.06",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+下脸",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010006003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010006003.png",
+        "avgPrice": 0,
+        "protectDetail": {
+            "durability": 50,
+            "protectLevel": 6,
+            "aimSpeed": {
+                "percent": -3,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 40,
+                "batteryValue": 4,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10348,
+        "objectID": 11010006004,
+        "objectName": "GT5 指挥官头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 6,
+        "weight": "3.63",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+上脸",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010006004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010006004.png",
+        "avgPrice": 0,
+        "protectDetail": {
+            "durability": 60,
+            "protectLevel": 6,
+            "aimSpeed": {
+                "percent": -8,
+                "batteryValue": 3,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 20,
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红1",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 11167,
+        "objectID": 11010006007,
+        "objectName": "H70 夜视精英头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 6,
+        "weight": "3.8",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010006007.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010006007.png",
+        "avgPrice": 0,
+        "protectDetail": {
+            "durability": 55,
+            "protectLevel": 6,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10344,
+        "objectID": 11010005001,
+        "objectName": "Mask-1铁壁头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "3.89",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005001.png",
+        "avgPrice": 117620,
+        "protectDetail": {
+            "durability": 75,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -6,
+                "batteryValue": 3,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -5,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": -15,
+                "batteryValue": 3,
+                "batteryColor": "red"
+            },
+            "faceMask": {
+                "value": "降噪能力：高",
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红3",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10345,
+        "objectID": 11010005002,
+        "objectName": "H09 防暴头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "2.30",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005002.png",
+        "avgPrice": 188116,
+        "protectDetail": {
+            "durability": 45,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 20,
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红1",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10347,
+        "objectID": 11010005003,
+        "objectName": "DICH-1战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "1.71",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+上脸",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005003.png",
+        "avgPrice": 160948,
+        "protectDetail": {
+            "durability": 40,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 40,
+                "batteryValue": 4,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：高",
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10346,
+        "objectID": 11010005004,
+        "objectName": "GN 重型头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "3.63",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005004.png",
+        "avgPrice": 137742,
+        "protectDetail": {
+            "durability": 50,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 11166,
+        "objectID": 11010005009,
+        "objectName": "GN 重型夜视头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "3.8",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005009.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005009.png",
+        "avgPrice": 292120,
+        "protectDetail": {
+            "durability": 50,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 11165,
+        "objectID": 11010005010,
+        "objectName": "GN 久战重型夜视头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "3.6",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005010.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005010.png",
+        "avgPrice": 188258,
+        "protectDetail": {
+            "durability": 20,
+            "protectLevel": 5,
+            "moveSpeed": {
+                "percent": -3,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 12668,
+        "objectID": 11010005011,
+        "objectName": "赤枭装甲防弹面具",
+        "length": 2,
+        "width": 2,
+        "grade": 5,
+        "weight": "3",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "仅面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010005011.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010005011.png",
+        "avgPrice": 0,
+        "protectDetail": {
+            "durability": 75,
+            "protectLevel": 5,
+            "aimSpeed": {
+                "percent": -5,
+                "batteryValue": 3,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 40,
+                "batteryValue": 4,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：高",
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10341,
+        "objectID": 11010004001,
+        "objectName": "D6 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 4,
+        "weight": "3.59",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+面部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010004001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010004001.png",
+        "avgPrice": 67345,
+        "protectDetail": {
+            "durability": 55,
+            "protectLevel": 4,
+            "aimSpeed": {
+                "percent": -6,
+                "batteryValue": 3,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": -10,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "faceMask": {
+                "value": "降噪能力：高",
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红3",
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10340,
+        "objectID": 11010004002,
+        "objectName": "MHS 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 4,
+        "weight": "2.2400000000000002",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010004002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010004002.png",
+        "avgPrice": 96698,
+        "protectDetail": {
+            "durability": 30,
+            "protectLevel": 4,
+            "aimSpeed": {
+                "percent": -3,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 30,
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10342,
+        "objectID": 11010004003,
+        "objectName": "DICH 训练头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 4,
+        "weight": "1.13",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010004003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010004003.png",
+        "avgPrice": 123110,
+        "protectDetail": {
+            "durability": 35,
+            "protectLevel": 4,
+            "moveSpeed": {
+                "percent": -2,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 50,
+                "batteryValue": 4,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：高",
+                "batteryValue": 3,
+                "batteryColor": "green"
+            },
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10343,
+        "objectID": 11010004004,
+        "objectName": "GT1 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 4,
+        "weight": "4.05",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部+上脸",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010004004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010004004.png",
+        "avgPrice": 110431,
+        "protectDetail": {
+            "durability": 48,
+            "protectLevel": 4,
+            "aimSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -4,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 20,
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "repairEfficiency": "头盔视野下降",
+            "protectArea": "红2",
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10337,
+        "objectID": 11010003001,
+        "objectName": "防暴头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 3,
+        "weight": "1.88",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010003001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010003001.png",
+        "avgPrice": 18598,
+        "protectDetail": {
+            "durability": 28,
+            "protectLevel": 3,
+            "aimSpeed": {
+                "percent": -3,
+                "batteryValue": 2,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": -5,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10338,
+        "objectID": 11010003002,
+        "objectName": "H07 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 3,
+        "weight": "0.9",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010003002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010003002.png",
+        "avgPrice": 23411,
+        "protectDetail": {
+            "durability": 20,
+            "protectLevel": 3,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10336,
+        "objectID": 11010003003,
+        "objectName": "DAS 防弹头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 3,
+        "weight": "1.38",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010003003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010003003.png",
+        "avgPrice": 31694,
+        "protectDetail": {
+            "durability": 40,
+            "protectLevel": 3,
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10339,
+        "objectID": 11010003004,
+        "objectName": "MC201 头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 3,
+        "weight": "1.32",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部+耳部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010003004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010003004.png",
+        "avgPrice": 40678,
+        "protectDetail": {
+            "durability": 34,
+            "protectLevel": 3,
+            "aimSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "moveSpeed": {
+                "percent": -1,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "soundEffect": {
+                "percent": 20,
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "durableLoss": "中"
+        }
+    },
+    {
+        "id": 10332,
+        "objectID": 11010002001,
+        "objectName": "复古摩托头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 2,
+        "weight": "1.63",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010002001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010002001.png",
+        "avgPrice": 8621,
+        "protectDetail": {
+            "durability": 18,
+            "protectLevel": 2,
+            "soundEffect": {
+                "percent": -5,
+                "batteryValue": 1,
+                "batteryColor": "red"
+            },
+            "faceMask": {
+                "value": "降噪能力：中",
+                "batteryValue": 2,
+                "batteryColor": "green"
+            },
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10333,
+        "objectID": 11010002002,
+        "objectName": "H01 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 2,
+        "weight": "0.75",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010002002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010002002.png",
+        "avgPrice": 7222,
+        "protectDetail": {
+            "durability": 12,
+            "protectLevel": 2,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10334,
+        "objectID": 11010002003,
+        "objectName": "DRO 战术头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 2,
+        "weight": "1.54",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010002003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010002003.png",
+        "avgPrice": 7454,
+        "protectDetail": {
+            "durability": 15,
+            "protectLevel": 2,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10335,
+        "objectID": 11010002004,
+        "objectName": "MC防弹头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 2,
+        "weight": "1.69",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010002004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010002004.png",
+        "avgPrice": 10898,
+        "protectDetail": {
+            "durability": 20,
+            "protectLevel": 2,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10023,
+        "objectID": 11010001001,
+        "objectName": "老式钢盔",
+        "length": 2,
+        "width": 2,
+        "grade": 1,
+        "weight": "1.01",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010001001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010001001.png",
+        "avgPrice": 1537,
+        "protectDetail": {
+            "durability": 10,
+            "protectLevel": 1,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10330,
+        "objectID": 11010001002,
+        "objectName": "安保头盔",
+        "length": 2,
+        "width": 2,
+        "grade": 1,
+        "weight": "0.55000000000000004",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010001002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010001002.png",
+        "avgPrice": 1871,
+        "protectDetail": {
+            "durability": 10,
+            "protectLevel": 1,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10331,
+        "objectID": 11010001003,
+        "objectName": "奔尼帽",
+        "length": 2,
+        "width": 2,
+        "grade": 1,
+        "weight": "0.37",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010001003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010001003.png",
+        "avgPrice": 1836,
+        "protectDetail": {
+            "durability": 10,
+            "protectLevel": 1,
+            "durableLoss": "高"
+        }
+    },
+    {
+        "id": 10024,
+        "objectID": 11010001004,
+        "objectName": "户外棒球帽",
+        "length": 2,
+        "width": 2,
+        "grade": 1,
+        "weight": "0.41",
+        "primaryClass": "protect",
+        "secondClass": "helmet",
+        "secondClassCN": "头盔",
+        "desc": "头部",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/11010001004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_11010001004.png",
+        "avgPrice": 7962,
+        "protectDetail": {
+            "durability": 12,
+            "protectLevel": 1,
+            "soundEffect": {
+                "percent": 10,
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "faceMask": {
+                "value": "降噪能力：低",
+                "batteryValue": 1,
+                "batteryColor": "green"
+            },
+            "durableLoss": "高"
+        }
+    }
+]

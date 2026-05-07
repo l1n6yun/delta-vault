@@ -1,0 +1,2466 @@
+[
+    {
+        "id": 10441,
+        "objectID": 13160000005,
+        "objectName": "PEQ-2红色激光镭指",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000005.png",
+        "avgPrice": 17130,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10459,
+        "objectID": 13160000006,
+        "objectName": "LA-3C绿色激光镭指",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000006.png",
+        "avgPrice": 22880,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10447,
+        "objectID": 13160000007,
+        "objectName": "耀斑战术手电",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000007.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000007.png",
+        "avgPrice": 29451,
+        "accDetail": {
+            "controlSpeed": -1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "战术手电照明(泛光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "主动爆闪致盲",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-1",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10442,
+        "objectID": 13160000009,
+        "objectName": "PERST-7蓝色激光镭指",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000009.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000009.png",
+        "avgPrice": 27354,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10461,
+        "objectID": 13160000010,
+        "objectName": "DBAL-X2紫色激光镭指",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000010.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000010.png",
+        "avgPrice": 26542,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10818,
+        "objectID": 13160000014,
+        "objectName": "OLIGHT Baldr Pro R多功能手电",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000014.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000014.png",
+        "avgPrice": 33977,
+        "accDetail": {
+            "hipShot": -8,
+            "controlSpeed": -5,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "战术手电照明(远光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10820,
+        "objectID": 13160000016,
+        "objectName": "OLIGHT Odin S战术手电",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000016.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000016.png",
+        "avgPrice": 29420,
+        "accDetail": {
+            "controlSpeed": -1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "战术手电照明(泛光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "主动爆闪致盲",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-1",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11019,
+        "objectID": 13160000018,
+        "objectName": "OLIGHT WARRIOR 3S战术手电",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000018.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000018.png",
+        "avgPrice": 42632,
+        "accDetail": {
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "主动爆闪致盲",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "战术手电照明(远光）",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11126,
+        "objectID": 13170000011,
+        "objectName": "QJB201脚架",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000011.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000011.png",
+        "avgPrice": 16459,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12886,
+        "objectID": 13170000013,
+        "objectName": "巨像稳定器",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000013.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000013.png",
+        "avgPrice": 22728,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": -4,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10821,
+        "objectID": 13250000005,
+        "objectName": "PSG-1精确扳机",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13250000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13250000005.png",
+        "avgPrice": 49145,
+        "accDetail": {
+            "controlStable": -8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10453,
+        "objectID": 13370000001,
+        "objectName": "蜂网遮光罩",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13370000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13370000001.png",
+        "avgPrice": 16933,
+        "accDetail": {
+            "controlSpeed": -3,
+            "controlStable": -3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "大幅缩减瞄准镜反光可见性",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11017,
+        "objectID": 13390000002,
+        "objectName": "新式腾龙高速导气箍",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13390000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13390000002.png",
+        "avgPrice": 41972,
+        "accDetail": {
+            "controlSpeed": -3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11018,
+        "objectID": 13390000003,
+        "objectName": "新式腾龙稳固导气箍",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13390000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13390000003.png",
+        "avgPrice": 23288,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": -4,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外水平后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12626,
+        "objectID": 13410000002,
+        "objectName": "SUR隔热外罩",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13410000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13410000002.png",
+        "avgPrice": 14412,
+        "accDetail": {
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "射速加快",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11230,
+        "objectID": 13440000002,
+        "objectName": "复合弓轻型弓臂",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13440000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13440000002.png",
+        "avgPrice": 64233,
+        "accDetail": {
+            "controlSpeed": 8,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "大幅降低基础腰射散布",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11231,
+        "objectID": 13440000003,
+        "objectName": "复合弓重型弓臂",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13440000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13440000003.png",
+        "avgPrice": 62770,
+        "accDetail": {
+            "controlStable": 10,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+10",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "开镜散布",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11236,
+        "objectID": 13450000002,
+        "objectName": "复合弓均衡握把片",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13450000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13450000002.png",
+        "avgPrice": 10329,
+        "accDetail": {
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11237,
+        "objectID": 13450000003,
+        "objectName": "复合弓增强握把片",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13450000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13450000003.png",
+        "avgPrice": 17218,
+        "accDetail": {
+            "hipShot": 24,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度+24",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11232,
+        "objectID": 13470000002,
+        "objectName": "复合弓增强弓弦",
+        "length": 4,
+        "width": 2,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13470000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13470000002.png",
+        "avgPrice": 95451,
+        "accDetail": {
+            "shotDistancePercent": 30,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "有效射程与枪口初速+30%",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "爆头伤害",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "拉弓蓄力速度",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11233,
+        "objectID": 13500000002,
+        "objectName": "复合弓竞赛箭台",
+        "length": 4,
+        "width": 2,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13500000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13500000002.png",
+        "avgPrice": 75193,
+        "accDetail": {
+            "shotDistancePercent": 30,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "有效射程与枪口初速+30%",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "换弹速度",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11234,
+        "objectID": 13510000001,
+        "objectName": "复合弓竞赛平衡杆",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13510000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13510000001.png",
+        "avgPrice": 13012,
+        "accDetail": {
+            "hipShot": 12,
+            "controlSpeed": 5,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+5",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11235,
+        "objectID": 13510000002,
+        "objectName": "复合弓稳定平衡杆",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13510000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13510000002.png",
+        "avgPrice": 12897,
+        "accDetail": {
+            "hipShot": -16,
+            "controlSpeed": 4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-16",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12262,
+        "objectID": 13520000002,
+        "objectName": "杠杆式步枪蜂鸟杠杆",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13520000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13520000002.png",
+        "avgPrice": 13709,
+        "accDetail": {
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "击发伤害",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "爆头伤害",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12263,
+        "objectID": 13520000003,
+        "objectName": "杠杆式步枪犀牛杠杆",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13520000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13520000003.png",
+        "avgPrice": 14872,
+        "accDetail": {
+            "shotDistancePercent": 20,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "击发伤害",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "特殊射程衰减",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12277,
+        "objectID": 13540000002,
+        "objectName": "AR重型握把片",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13540000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13540000002.png",
+        "avgPrice": 120732,
+        "accDetail": {
+            "recoil": 8,
+            "controlSpeed": -6,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12278,
+        "objectID": 13540000003,
+        "objectName": "AR轻薄握把片",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13540000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13540000003.png",
+        "avgPrice": 90628,
+        "accDetail": {
+            "controlSpeed": 2,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "受击上抬惩罚",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10448,
+        "objectID": 13160000008,
+        "objectName": "实用枪灯",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000008.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000008.png",
+        "avgPrice": 9644,
+        "accDetail": {
+            "controlSpeed": -1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "战术手电照明(远光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-1",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10819,
+        "objectID": 13160000015,
+        "objectName": "下挂手枪灯",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000015.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000015.png",
+        "avgPrice": 8528,
+        "accDetail": {
+            "controlSpeed": -1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "战术手电照明(远光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-1",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12259,
+        "objectID": 13160000020,
+        "objectName": "JAD下挂激光",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000020.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000020.png",
+        "avgPrice": 44005,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "开启激光镭指时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "允许战术据枪姿态",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "关闭激光镭指时",
+                "effectList": [
+                    {
+                        "value": "激光镭射开启时敌人可见",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10463,
+        "objectID": 13170000001,
+        "objectName": "AWM两脚架",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.75",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000001.png",
+        "avgPrice": 18340,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10449,
+        "objectID": 13170000002,
+        "objectName": "PKM两脚架",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000002.png",
+        "avgPrice": 9506,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10464,
+        "objectID": 13170000004,
+        "objectName": "实用两脚架",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.75",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000004.png",
+        "avgPrice": 15264,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10454,
+        "objectID": 13170000005,
+        "objectName": "AUG脚架",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000005.png",
+        "avgPrice": 10078,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10460,
+        "objectID": 13170000008,
+        "objectName": "AK12脚架",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000008.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000008.png",
+        "avgPrice": 7944,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11020,
+        "objectID": 13250000006,
+        "objectName": "M1911夜鹰战术扳机",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13250000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13250000006.png",
+        "avgPrice": 24251,
+        "accDetail": {
+            "recoil": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11016,
+        "objectID": 13380000002,
+        "objectName": "M1911夜鹰战术击锤",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13380000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13380000002.png",
+        "avgPrice": 24210,
+        "accDetail": {
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11143,
+        "objectID": 13390000006,
+        "objectName": "QJB201新式高速导气箍",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13390000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13390000006.png",
+        "avgPrice": 14491,
+        "accDetail": {
+            "recoil": -4,
+            "hipShot": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "开镜时射击散布",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11144,
+        "objectID": 13390000007,
+        "objectName": "QJB201新式稳固导气箍",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13390000007.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13390000007.png",
+        "avgPrice": 14850,
+        "accDetail": {
+            "shotDistancePercent": 35,
+            "recoil": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "开镜时射击散布",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "有效射程",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10462,
+        "objectID": 13160000013,
+        "objectName": "CAR15绑手电",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13160000013.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13160000013.png",
+        "avgPrice": 2623,
+        "accDetail": {
+            "controlSpeed": -3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "战术手电照明(泛光）",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10446,
+        "objectID": 13170000003,
+        "objectName": "SV98两脚架",
+        "length": 1,
+        "width": 2,
+        "grade": 2,
+        "weight": "0.75",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13170000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13170000003.png",
+        "avgPrice": 5558,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动部署脚架时",
+                "effectList": [
+                    {
+                        "value": "后坐力控制",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "condition": "脚架收起时",
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10465,
+        "objectID": 13320000001,
+        "objectName": "游侠护木片",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13320000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13320000001.png",
+        "avgPrice": 5308,
+        "accDetail": {
+            "recoil": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10455,
+        "objectID": 13320000005,
+        "objectName": "KC猎犬护木片",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13320000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13320000005.png",
+        "avgPrice": 5309,
+        "accDetail": {
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10450,
+        "objectID": 13320000010,
+        "objectName": "DD蟒蛇护木片",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13320000010.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13320000010.png",
+        "avgPrice": 5308,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10443,
+        "objectID": 13320000015,
+        "objectName": "狂蜂护木片",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13320000015.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13320000015.png",
+        "avgPrice": 5311,
+        "accDetail": {
+            "hipShot": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10822,
+        "objectID": 13320000020,
+        "objectName": "组合式护木片",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13320000020.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13320000020.png",
+        "avgPrice": 5322,
+        "accDetail": {
+            "recoil": 1,
+            "controlSpeed": -2,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10013,
+        "objectID": 13340000001,
+        "objectName": "蜜獾小口径快拔套(黑)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000001.png",
+        "avgPrice": 5304,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10466,
+        "objectID": 13340000002,
+        "objectName": "野蜂冲锋枪快拔套(黑)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000002.png",
+        "avgPrice": 5318,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10456,
+        "objectID": 13340000003,
+        "objectName": "郊狼中间威力口径快拔套(黑)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000003.png",
+        "avgPrice": 5304,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10444,
+        "objectID": 13340000004,
+        "objectName": "灰熊全威力口径快拔套(黑)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000004.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000004.png",
+        "avgPrice": 5301,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10011,
+        "objectID": 13340000005,
+        "objectName": "蜜獾小口径快拔套(绿)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000005.png",
+        "avgPrice": 5300,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10451,
+        "objectID": 13340000006,
+        "objectName": "野蜂冲锋枪快拔套(绿)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000006.png",
+        "avgPrice": 5316,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10452,
+        "objectID": 13340000007,
+        "objectName": "郊狼中间威力快拔套(绿)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000007.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000007.png",
+        "avgPrice": 5306,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10445,
+        "objectID": 13340000008,
+        "objectName": "灰熊全威力快拔套(绿)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000008.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000008.png",
+        "avgPrice": 5311,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10012,
+        "objectID": 13340000009,
+        "objectName": "蜜獾小口径快拔套(沙)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000009.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000009.png",
+        "avgPrice": 5308,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10457,
+        "objectID": 13340000010,
+        "objectName": "野蜂冲锋枪快拔套(沙)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000010.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000010.png",
+        "avgPrice": 5316,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10458,
+        "objectID": 13340000011,
+        "objectName": "郊狼中间威力快拔套(沙)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000011.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000011.png",
+        "avgPrice": 5305,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10467,
+        "objectID": 13340000012,
+        "objectName": "灰熊全威力快拔套(沙)",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13340000012.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13340000012.png",
+        "avgPrice": 5313,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10823,
+        "objectID": 13410000001,
+        "objectName": "R93枪管隔热网",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13410000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13410000001.png",
+        "avgPrice": 5320,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11124,
+        "objectID": 13420000002,
+        "objectName": "QCQ171新式高射速化枪机",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13420000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13420000002.png",
+        "avgPrice": 38286,
+        "accDetail": {
+            "recoil": -8,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "连射速度",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11125,
+        "objectID": 13420000003,
+        "objectName": "QCQ171新式稳固枪机",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13420000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13420000003.png",
+        "avgPrice": 24394,
+        "accDetail": {
+            "shotDistancePercent": 35,
+            "recoil": 10,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+10",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "有效射程",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "连射速度",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11127,
+        "objectID": 13430000001,
+        "objectName": "泽宁特拉机柄帽",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13430000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13430000001.png",
+        "avgPrice": 1663,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12269,
+        "objectID": 13530000001,
+        "objectName": "杠杆式步枪子弹袋",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accFunctional",
+        "secondClassCN": "功能性配件",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13530000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13530000001.png",
+        "avgPrice": 6297,
+        "accDetail": {
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "换弹速度",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    }
+]

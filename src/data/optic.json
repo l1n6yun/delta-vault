@@ -1,0 +1,1912 @@
+[
+    {
+        "id": 11116,
+        "objectID": 13110000066,
+        "objectName": "先进热融合全息瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 6,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000066.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000066.png",
+        "avgPrice": 49137,
+        "accDetail": {
+            "controlSpeed": -2,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "清晰热成像视野",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11117,
+        "objectID": 13110000067,
+        "objectName": "先进白热成像战斗瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 6,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000067.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000067.png",
+        "avgPrice": 164839,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "清晰热成像视野",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11118,
+        "objectID": 13110000068,
+        "objectName": "八倍先进热成像狙击镜",
+        "length": 2,
+        "width": 1,
+        "grade": 6,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000068.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000068.png",
+        "avgPrice": 218488,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "清晰热成像视野",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10529,
+        "objectID": 13110000051,
+        "objectName": "HAMR组合瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.03",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000051.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000051.png",
+        "avgPrice": 20478,
+        "accDetail": {
+            "controlSpeed": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多倍率可调瞄准镜",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10530,
+        "objectID": 13110000052,
+        "objectName": "侦察1.5\/5可调瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.21",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000052.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000052.png",
+        "avgPrice": 36293,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多倍率可调瞄准镜",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[弱]",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10537,
+        "objectID": 13110000056,
+        "objectName": "光学狙击8倍瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.31",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000056.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000056.png",
+        "avgPrice": 33950,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10511,
+        "objectID": 13110000057,
+        "objectName": "3\/7可调倍率狙击镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.41",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000057.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000057.png",
+        "avgPrice": 67575,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多段光学放大倍率切换",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10521,
+        "objectID": 13110000069,
+        "objectName": "LPVO多倍率战斗瞄具",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.44",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000069.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000069.png",
+        "avgPrice": 37112,
+        "accDetail": {
+            "controlSpeed": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多段光学放大倍率切换",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10516,
+        "objectID": 13110000070,
+        "objectName": "6\/12神射手变倍狙击镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "1.42",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000070.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000070.png",
+        "avgPrice": 36833,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多段光学放大倍率切换",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10512,
+        "objectID": 13110000072,
+        "objectName": "1p-29俄制3倍瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000072.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000072.png",
+        "avgPrice": 18161,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10538,
+        "objectID": 13110000073,
+        "objectName": "视点3倍瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.7",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000073.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000073.png",
+        "avgPrice": 35672,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10534,
+        "objectID": 13110000076,
+        "objectName": "侧置全景红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000076.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000076.png",
+        "avgPrice": 13809,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "侧置安装，搭配其他瞄准镜使用",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10535,
+        "objectID": 13110000077,
+        "objectName": "侧置XRO快速反应瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000077.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000077.png",
+        "avgPrice": 13692,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "侧置安装，搭配其他瞄准镜使用",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10518,
+        "objectID": 13110000078,
+        "objectName": "侧置微型红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000078.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000078.png",
+        "avgPrice": 13604,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "侧置安装，搭配其他瞄准镜使用",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10513,
+        "objectID": 13110000079,
+        "objectName": "侧置战斗红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000079.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000079.png",
+        "avgPrice": 14995,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "侧置安装，搭配其他瞄准镜使用",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11009,
+        "objectID": 13110000082,
+        "objectName": "M157火控光学系统",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000082.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000082.png",
+        "avgPrice": 41537,
+        "accDetail": {
+            "controlSpeed": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "condition": "主动锁定目标后",
+                "effectList": [
+                    {
+                        "value": "自动目标水平移动提前量预测",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "自动弹道下坠点预测",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10829,
+        "objectID": 13110000088,
+        "objectName": "侧置Osight微型瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000088.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000088.png",
+        "avgPrice": 22193,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "侧置安装，搭配其他瞄准镜使用",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11010,
+        "objectID": 13110000091,
+        "objectName": "灵眼3\/7测距狙击瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000091.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000091.png",
+        "avgPrice": 75830,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "主动弹道下坠计算",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11011,
+        "objectID": 13110000092,
+        "objectName": "灵眼6\/12测距狙击瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000092.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000092.png",
+        "avgPrice": 87137,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "主动弹道下坠计算",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11229,
+        "objectID": 13110000093,
+        "objectName": "棱镜通用二倍光学瞄具",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000093.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000093.png",
+        "avgPrice": 23045,
+        "accDetail": {
+            "controlSpeed": -4,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11238,
+        "objectID": 13110000095,
+        "objectName": "复合弓智能倍镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000095.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000095.png",
+        "avgPrice": 18949,
+        "accDetail": {
+            "hipShot": -8,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多倍率可调瞄准镜",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12636,
+        "objectID": 13110000098,
+        "objectName": "UHX全息瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000098.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000098.png",
+        "avgPrice": 8423,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12273,
+        "objectID": 13110000099,
+        "objectName": "1p33 2\/4倍望远镜",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000099.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000099.png",
+        "avgPrice": 47342,
+        "accDetail": {
+            "controlSpeed": -6,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "多倍率可调瞄准镜",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[弱]",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12431,
+        "objectID": 13110000102,
+        "objectName": "VMX无框瞄具",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.55",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000102.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000102.png",
+        "avgPrice": 25009,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12435,
+        "objectID": 13210000014,
+        "objectName": "MEO微型瞄具增高架",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13210000014.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13210000014.png",
+        "avgPrice": 17061,
+        "accDetail": {
+            "controlSpeed": -1,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-1",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10517,
+        "objectID": 13110000043,
+        "objectName": "全景红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000043.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000043.png",
+        "avgPrice": 21598,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10536,
+        "objectID": 13110000044,
+        "objectName": "XRO快速反应瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.4",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000044.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000044.png",
+        "avgPrice": 12810,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10527,
+        "objectID": 13110000049,
+        "objectName": "PSO战斗2.5倍瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.91",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000049.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000049.png",
+        "avgPrice": 15365,
+        "accDetail": {
+            "controlSpeed": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10531,
+        "objectID": 13110000053,
+        "objectName": "XCOG突击3.5倍瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.95",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000053.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000053.png",
+        "avgPrice": 50546,
+        "accDetail": {
+            "controlSpeed": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10523,
+        "objectID": 13110000061,
+        "objectName": "okp-7反射瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.5",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000061.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000061.png",
+        "avgPrice": 7299,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10532,
+        "objectID": 13110000062,
+        "objectName": "微型红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000062.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000062.png",
+        "avgPrice": 12845,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10519,
+        "objectID": 13110000063,
+        "objectName": "战斗红点瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000063.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000063.png",
+        "avgPrice": 12897,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10533,
+        "objectID": 13110000064,
+        "objectName": "Cobra准直式瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.7",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000064.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000064.png",
+        "avgPrice": 20338,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10828,
+        "objectID": 13110000087,
+        "objectName": "Osight微型瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000087.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000087.png",
+        "avgPrice": 16112,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "清晰镜内视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10830,
+        "objectID": 13110000089,
+        "objectName": "ACOG精准六倍镜",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000089.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000089.png",
+        "avgPrice": 25214,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[弱]",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11008,
+        "objectID": 13110000090,
+        "objectName": "M3狙击镜",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000090.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000090.png",
+        "avgPrice": 44940,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10528,
+        "objectID": 13210000012,
+        "objectName": "微型瞄具增高架",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13210000012.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13210000012.png",
+        "avgPrice": 15772,
+        "accDetail": {
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10524,
+        "objectID": 13210000013,
+        "objectName": "多用途战术增高架",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13210000013.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13210000013.png",
+        "avgPrice": 23604,
+        "accDetail": {
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10525,
+        "objectID": 13110000040,
+        "objectName": "全息瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.5",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000040.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000040.png",
+        "avgPrice": 5387,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "红点镜内视野",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10515,
+        "objectID": 13110000042,
+        "objectName": "俄式准直二倍瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.5",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000042.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000042.png",
+        "avgPrice": 11254,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "红点镜内视野",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10526,
+        "objectID": 13110000046,
+        "objectName": "反射式瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000046.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000046.png",
+        "avgPrice": 5387,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "红点镜内视野",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10520,
+        "objectID": 13110000065,
+        "objectName": "全息二型瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.4",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000065.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000065.png",
+        "avgPrice": 5347,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "红点镜内视野",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10522,
+        "objectID": 13110000081,
+        "objectName": "PSO狙击8倍瞄准镜",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000081.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000081.png",
+        "avgPrice": 11869,
+        "accDetail": {
+            "controlSpeed": -8,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "高倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[中]",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "操控速度-8",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10514,
+        "objectID": 13110000085,
+        "objectName": "AP5000反射式瞄准镜",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000085.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000085.png",
+        "avgPrice": 5358,
+        "accDetail": {
+            "controlSpeed": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "红点镜内视野",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12270,
+        "objectID": 13110000096,
+        "objectName": "杠杆式步枪守望者狙击镜",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accScope",
+        "secondClassCN": "瞄具",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13110000096.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13110000096.png",
+        "avgPrice": 5336,
+        "accDetail": {
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "中等倍率光学放大视野",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "举镜瞄准时敌人可见反光[弱]",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    }
+]

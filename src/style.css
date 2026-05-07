@@ -1,0 +1,22 @@
+/* Delta Vault - Main Styles */
+:root {
+  --accent: #00ff41;
+  --bg-primary: #0e1215;
+  --bg-secondary: #141e19;
+  --text-primary: #c4c4c4;
+  --text-secondary: #6a7a6a;
+  --border-color: rgba(0, 255, 65, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+}

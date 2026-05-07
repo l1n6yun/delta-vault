@@ -1,0 +1,1414 @@
+[
+    {
+        "id": 10985,
+        "objectID": 13030000106,
+        "objectName": "G3后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000106.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000106.png",
+        "avgPrice": 20564,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10006,
+        "objectID": 13030000111,
+        "objectName": "幻影后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000111.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000111.png",
+        "avgPrice": 47155,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 9,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+9",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10003,
+        "objectID": 13030000112,
+        "objectName": "侵袭后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.17",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000112.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000112.png",
+        "avgPrice": 20956,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10983,
+        "objectID": 13030000164,
+        "objectName": "MP7平衡后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000164.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000164.png",
+        "avgPrice": 30157,
+        "accDetail": {
+            "recoil": 2,
+            "hipShot": 2,
+            "controlSpeed": 2,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10984,
+        "objectID": 13030000165,
+        "objectName": "MP7稳固后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000165.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000165.png",
+        "avgPrice": 23343,
+        "accDetail": {
+            "recoil": 6,
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10489,
+        "objectID": 13030000166,
+        "objectName": "AR重塔握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.23",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000166.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000166.png",
+        "avgPrice": 17620,
+        "accDetail": {
+            "recoil": 1,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10485,
+        "objectID": 13030000167,
+        "objectName": "AK重塔握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.22",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000167.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000167.png",
+        "avgPrice": 32178,
+        "accDetail": {
+            "recoil": 1,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10476,
+        "objectID": 13030000168,
+        "objectName": "AK镂空握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.15",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000168.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000168.png",
+        "avgPrice": 90170,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 9,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+9",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10481,
+        "objectID": 13030000169,
+        "objectName": "RK3后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.19",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000169.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000169.png",
+        "avgPrice": 20669,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10490,
+        "objectID": 13030000170,
+        "objectName": "天蝎座后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.21",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000170.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000170.png",
+        "avgPrice": 47309,
+        "accDetail": {
+            "recoil": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10469,
+        "objectID": 13030000172,
+        "objectName": "G3镂空握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.16",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000172.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000172.png",
+        "avgPrice": 32534,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 9,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+9",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10980,
+        "objectID": 13030000180,
+        "objectName": "新式尖兵轻型握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000180.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000180.png",
+        "avgPrice": 14526,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 9,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+9",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10981,
+        "objectID": 13030000181,
+        "objectName": "新式侍剑重型握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000181.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000181.png",
+        "avgPrice": 20022,
+        "accDetail": {
+            "recoil": 6,
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11228,
+        "objectID": 13030000189,
+        "objectName": "兵锋新式握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000189.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000189.png",
+        "avgPrice": 20962,
+        "accDetail": {
+            "recoil": 6,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12275,
+        "objectID": 13030000191,
+        "objectName": "模块化AR后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000191.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000191.png",
+        "avgPrice": 119666,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12441,
+        "objectID": 13030000194,
+        "objectName": "侍卫稳固后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.25",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000194.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000194.png",
+        "avgPrice": 32209,
+        "accDetail": {
+            "recoil": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12633,
+        "objectID": 13030000198,
+        "objectName": "M249蝎尾握把",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000198.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000198.png",
+        "avgPrice": 16846,
+        "accDetail": {
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10470,
+        "objectID": 13330000001,
+        "objectName": "稳固握把底座",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13330000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13330000001.png",
+        "avgPrice": 14110,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": -5,
+            "controlStable": 7,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+7",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-5",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10477,
+        "objectID": 13330000002,
+        "objectName": "平衡握把底座",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13330000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13330000002.png",
+        "avgPrice": 16753,
+        "accDetail": {
+            "recoil": 1,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10001,
+        "objectID": 13030000113,
+        "objectName": "飓风D-1后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.15",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000113.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000113.png",
+        "avgPrice": 10658,
+        "accDetail": {
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10004,
+        "objectID": 13030000114,
+        "objectName": "射手D-2后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.14",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000114.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000114.png",
+        "avgPrice": 10572,
+        "accDetail": {
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10475,
+        "objectID": 13030000117,
+        "objectName": "实用AK后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.13",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000117.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000117.png",
+        "avgPrice": 13858,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10478,
+        "objectID": 13030000121,
+        "objectName": "射手AK后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.15",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000121.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000121.png",
+        "avgPrice": 13681,
+        "accDetail": {
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10479,
+        "objectID": 13030000122,
+        "objectName": "稳定AK后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.21",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000122.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000122.png",
+        "avgPrice": 14746,
+        "accDetail": {
+            "recoil": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10486,
+        "objectID": 13030000129,
+        "objectName": "XK竞技后握",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000129.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000129.png",
+        "avgPrice": 24799,
+        "accDetail": {
+            "recoil": 6,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10482,
+        "objectID": 13030000171,
+        "objectName": "PSG-1后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.19",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000171.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000171.png",
+        "avgPrice": 17960,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": -2,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11109,
+        "objectID": 13030000187,
+        "objectName": "AR MOE后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000187.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000187.png",
+        "avgPrice": 23969,
+        "accDetail": {
+            "recoil": 3,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10474,
+        "objectID": 13030000060,
+        "objectName": "左轮狙击后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000060.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000060.png",
+        "avgPrice": 4238,
+        "accDetail": {
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10005,
+        "objectID": 13030000109,
+        "objectName": "416实用后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.11",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000109.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000109.png",
+        "avgPrice": 3331,
+        "accDetail": {
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10002,
+        "objectID": 13030000110,
+        "objectName": "M7稳定后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.12",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000110.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000110.png",
+        "avgPrice": 3340,
+        "accDetail": {
+            "recoil": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10468,
+        "objectID": 13030000127,
+        "objectName": "XK防滑纹后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.16",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000127.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000127.png",
+        "avgPrice": 12699,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10472,
+        "objectID": 13030000128,
+        "objectName": "XK橡胶套后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.18",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000128.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000128.png",
+        "avgPrice": 7779,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10487,
+        "objectID": 13030000130,
+        "objectName": "沙鹰竞技后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000130.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000130.png",
+        "avgPrice": 5545,
+        "accDetail": {
+            "controlSpeed": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10488,
+        "objectID": 13030000131,
+        "objectName": "M9黑色均衡后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.17",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000131.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000131.png",
+        "avgPrice": 5023,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10484,
+        "objectID": 13030000132,
+        "objectName": "M9木色稳定后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.17",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000132.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000132.png",
+        "avgPrice": 5004,
+        "accDetail": {
+            "recoil": 4,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10480,
+        "objectID": 13030000133,
+        "objectName": "M9肉色操控后握",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.18",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000133.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000133.png",
+        "avgPrice": 4955,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10473,
+        "objectID": 13030000174,
+        "objectName": ".357左轮逐风者后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000174.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000174.png",
+        "avgPrice": 14972,
+        "accDetail": {
+            "controlSpeed": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10986,
+        "objectID": 13030000184,
+        "objectName": "SVD握把转接",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000184.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000184.png",
+        "avgPrice": 7694,
+        "accDetail": {
+            "controlSpeed": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "拓展改装平台",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10982,
+        "objectID": 13030000185,
+        "objectName": "M1911夜鹰战术后握把",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accBackGrip",
+        "secondClassCN": "后握把",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000185.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000185.png",
+        "avgPrice": 5560,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    }
+]

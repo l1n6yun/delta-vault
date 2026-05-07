@@ -1,0 +1,3402 @@
+[
+    {
+        "id": 10483,
+        "objectID": 13030000115,
+        "objectName": "禁区一体枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000115.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000115.png",
+        "avgPrice": 29178,
+        "accDetail": {
+            "recoil": 11,
+            "controlSpeed": -6,
+            "controlStable": 7,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+11",
+                        "batteryValue": 8,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+7",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10471,
+        "objectID": 13030000124,
+        "objectName": "svd聚合物一体枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.22",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000124.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000124.png",
+        "avgPrice": 25147,
+        "accDetail": {
+            "controlSpeed": -4,
+            "controlStable": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外单点模式后坐力控制与枪身稳定",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10696,
+        "objectID": 13030000125,
+        "objectName": "VSS精英一体枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.73",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000125.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000125.png",
+        "avgPrice": 91719,
+        "accDetail": {
+            "recoil": 20,
+            "hipShot": -16,
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+20",
+                        "batteryValue": 8,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度-16",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10824,
+        "objectID": 13030000178,
+        "objectName": "共振二代一体枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13030000178.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13030000178.png",
+        "avgPrice": 71455,
+        "accDetail": {
+            "recoil": 7,
+            "hipShot": 4,
+            "controlSpeed": 10,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+7",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "举镜瞄准速度",
+                        "batteryValue": 8,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10721,
+        "objectID": 13040000007,
+        "objectName": "影袭导轨枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.42",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000007.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000007.png",
+        "avgPrice": 30195,
+        "accDetail": {
+            "recoil": 7,
+            "controlSpeed": 7,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+7",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+7",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10704,
+        "objectID": 13040000110,
+        "objectName": "UR特种战术枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.52",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000110.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000110.png",
+        "avgPrice": 40513,
+        "accDetail": {
+            "recoil": 8,
+            "controlSpeed": -4,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10710,
+        "objectID": 13040000111,
+        "objectName": "416-C伸缩枪托",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.32",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000111.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000111.png",
+        "avgPrice": 26761,
+        "accDetail": {
+            "recoil": 4,
+            "hipShot": 8,
+            "controlSpeed": 8,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10691,
+        "objectID": 13040000118,
+        "objectName": "PT1特种枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.53",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000118.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000118.png",
+        "avgPrice": 78160,
+        "accDetail": {
+            "recoil": 8,
+            "controlSpeed": 4,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10705,
+        "objectID": 13040000121,
+        "objectName": "ASh-12骨架枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.52",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000121.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000121.png",
+        "avgPrice": 53935,
+        "accDetail": {
+            "recoil": 3,
+            "hipShot": 12,
+            "controlSpeed": 6,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10684,
+        "objectID": 13040000122,
+        "objectName": "ASh-12狙击枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.55",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000122.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000122.png",
+        "avgPrice": 50477,
+        "accDetail": {
+            "recoil": 12,
+            "hipShot": -16,
+            "controlSpeed": 4,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+12",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-16",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10685,
+        "objectID": 13040000123,
+        "objectName": "Vector共振一体式枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.71",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000123.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000123.png",
+        "avgPrice": 51718,
+        "accDetail": {
+            "recoil": 12,
+            "hipShot": 12,
+            "controlSpeed": 6,
+            "controlStable": -5,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-5",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10702,
+        "objectID": 13040000137,
+        "objectName": "M249精英骨架枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.66",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000137.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000137.png",
+        "avgPrice": 14970,
+        "accDetail": {
+            "recoil": 4,
+            "hipShot": 8,
+            "controlSpeed": 9,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+9",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10845,
+        "objectID": 13040000181,
+        "objectName": "PT3死士枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000181.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000181.png",
+        "avgPrice": 35355,
+        "accDetail": {
+            "recoil": 3,
+            "hipShot": -4,
+            "controlSpeed": 3,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-4",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10847,
+        "objectID": 13040000183,
+        "objectName": "MRGS镂空枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000183.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000183.png",
+        "avgPrice": 28377,
+        "accDetail": {
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10848,
+        "objectID": 13040000184,
+        "objectName": "影袭托芯枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000184.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000184.png",
+        "avgPrice": 33607,
+        "accDetail": {
+            "recoil": 2,
+            "hipShot": 8,
+            "controlSpeed": 10,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+10",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11154,
+        "objectID": 13040000201,
+        "objectName": "725双管霰弹枪州长短枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000201.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000201.png",
+        "avgPrice": 15804,
+        "accDetail": {
+            "recoil": -4,
+            "hipShot": 16,
+            "controlSpeed": 10,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+10",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+16",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11155,
+        "objectID": 13040000202,
+        "objectName": "725双管霰弹枪守望者枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000202.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000202.png",
+        "avgPrice": 13386,
+        "accDetail": {
+            "recoil": 16,
+            "hipShot": -8,
+            "controlSpeed": -6,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+16",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时稳定性",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+16",
+                        "batteryValue": 4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12264,
+        "objectID": 13040000205,
+        "objectName": "杠杆式步枪骨架枪托",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000205.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000205.png",
+        "avgPrice": 11739,
+        "accDetail": {
+            "recoil": 4,
+            "hipShot": -8,
+            "controlSpeed": 8,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11239,
+        "objectID": 13040000219,
+        "objectName": "KC17先进战斗枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000219.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000219.png",
+        "avgPrice": 31565,
+        "accDetail": {
+            "recoil": 8,
+            "hipShot": 4,
+            "controlSpeed": -7,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-7",
+                        "batteryValue": -4,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12635,
+        "objectID": 13040000221,
+        "objectName": "MK47主宰者后托",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.4",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000221.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000221.png",
+        "avgPrice": 23551,
+        "accDetail": {
+            "recoil": 12,
+            "hipShot": -8,
+            "controlSpeed": 2,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12432,
+        "objectID": 13040000224,
+        "objectName": "CT增强型后托",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.41",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000224.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000224.png",
+        "avgPrice": 45750,
+        "accDetail": {
+            "recoil": 10,
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+10",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12885,
+        "objectID": 13040000233,
+        "objectName": "AMR-HT镂空枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.6",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000233.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000233.png",
+        "avgPrice": 23271,
+        "accDetail": {
+            "recoil": -2,
+            "hipShot": 8,
+            "controlSpeed": 4,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-2",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12879,
+        "objectID": 13040000234,
+        "objectName": "锚点导轨后托",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.24",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000234.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000234.png",
+        "avgPrice": 35972,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": -2,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10728,
+        "objectID": 13240000002,
+        "objectName": "P90枪托垫",
+        "length": 2,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.23",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13240000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13240000002.png",
+        "avgPrice": 28912,
+        "accDetail": {
+            "recoil": 8,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10729,
+        "objectID": 13290000002,
+        "objectName": "M700托腮板",
+        "length": 1,
+        "width": 1,
+        "grade": 4,
+        "weight": "0.38",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13290000002.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13290000002.png",
+        "avgPrice": 12121,
+        "accDetail": {
+            "controlSpeed": 1,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10709,
+        "objectID": 13040000006,
+        "objectName": "闪电导轨枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.58",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000006.png",
+        "avgPrice": 24284,
+        "accDetail": {
+            "controlSpeed": 12,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11001,
+        "objectID": 13040000100,
+        "objectName": "G3枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000100.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000100.png",
+        "avgPrice": 19128,
+        "accDetail": {
+            "controlSpeed": 2,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10714,
+        "objectID": 13040000107,
+        "objectName": "枢机稳固枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.58",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000107.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000107.png",
+        "avgPrice": 23960,
+        "accDetail": {
+            "recoil": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10715,
+        "objectID": 13040000108,
+        "objectName": "侵掠核心枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.56",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000108.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000108.png",
+        "avgPrice": 22444,
+        "accDetail": {
+            "recoil": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10688,
+        "objectID": 13040000109,
+        "objectName": "精英轻型枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.51",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000109.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000109.png",
+        "avgPrice": 15890,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10699,
+        "objectID": 13040000112,
+        "objectName": "416轻型枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.51",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000112.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000112.png",
+        "avgPrice": 17304,
+        "accDetail": {
+            "recoil": 6,
+            "controlSpeed": 6,
+            "controlStable": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10693,
+        "objectID": 13040000113,
+        "objectName": "416稳固枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.59",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000113.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000113.png",
+        "avgPrice": 24421,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": -6,
+            "controlStable": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-6",
+                        "batteryValue": -3,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10717,
+        "objectID": 13040000132,
+        "objectName": "1014伸缩托（展开）",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.54",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000132.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000132.png",
+        "avgPrice": 95370,
+        "accDetail": {
+            "recoil": 15,
+            "hipShot": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+15",
+                        "batteryValue": 8,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10692,
+        "objectID": 13040000133,
+        "objectName": "1014伸缩托（折叠）",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.61",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000133.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000133.png",
+        "avgPrice": 32396,
+        "accDetail": {
+            "recoil": 5,
+            "hipShot": 12,
+            "controlSpeed": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+5",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10707,
+        "objectID": 13040000134,
+        "objectName": "1014固定枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.61",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000134.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000134.png",
+        "avgPrice": 19233,
+        "accDetail": {
+            "recoil": 8,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10701,
+        "objectID": 13040000135,
+        "objectName": "S12K撞火枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.55",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000135.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000135.png",
+        "avgPrice": 45356,
+        "accDetail": {
+            "recoil": 4,
+            "hipShot": 16,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "将开火模式转换为全自动模式",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+16",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "瞄准时弹丸集中度",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10695,
+        "objectID": 13040000139,
+        "objectName": "PKM泽宁特枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.63",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000139.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000139.png",
+        "avgPrice": 35969,
+        "accDetail": {
+            "recoil": 5,
+            "hipShot": -8,
+            "controlSpeed": 2,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+5",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10687,
+        "objectID": 13040000167,
+        "objectName": "枢机先进战斗枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.59",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000167.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000167.png",
+        "avgPrice": 57601,
+        "accDetail": {
+            "recoil": 4,
+            "hipShot": 8,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+1",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10725,
+        "objectID": 13040000173,
+        "objectName": "Vector枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.18",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000173.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000173.png",
+        "avgPrice": 7392,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10726,
+        "objectID": 13040000176,
+        "objectName": "M14EBR枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.31",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000176.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000176.png",
+        "avgPrice": 49575,
+        "accDetail": {
+            "recoil": 5,
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+5",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10846,
+        "objectID": 13040000182,
+        "objectName": "AK19枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000182.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000182.png",
+        "avgPrice": 13532,
+        "accDetail": {
+            "recoil": 6,
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外开火时枪身稳定性",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度-8",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10849,
+        "objectID": 13040000185,
+        "objectName": "骨架狙击枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000185.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000185.png",
+        "avgPrice": 33830,
+        "accDetail": {
+            "recoil": -4,
+            "hipShot": -16,
+            "controlSpeed": 8,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "腰际射击精度-16",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11003,
+        "objectID": 13040000194,
+        "objectName": "AS Val枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000194.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000194.png",
+        "avgPrice": 7493,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11005,
+        "objectID": 13040000196,
+        "objectName": "MP7枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000196.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000196.png",
+        "avgPrice": 7418,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12267,
+        "objectID": 13040000208,
+        "objectName": "杠杆式步枪运动枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000208.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000208.png",
+        "avgPrice": 20937,
+        "accDetail": {
+            "hipShot": 16,
+            "controlSpeed": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+16",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12268,
+        "objectID": 13040000209,
+        "objectName": "杠杆式步枪战锤战术枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000209.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000209.png",
+        "avgPrice": 20867,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": -2,
+            "controlStable": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10719,
+        "objectID": 13240000005,
+        "objectName": "AUG枪托垫",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.53",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13240000005.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13240000005.png",
+        "avgPrice": 69976,
+        "accDetail": {
+            "recoil": 4,
+            "controlSpeed": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10720,
+        "objectID": 13290000001,
+        "objectName": "通用托腮板",
+        "length": 1,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.41",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13290000001.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13290000001.png",
+        "avgPrice": 14642,
+        "accDetail": {
+            "recoil": 1,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10007,
+        "objectID": 13290000003,
+        "objectName": "QBZ托腮板",
+        "length": 2,
+        "width": 1,
+        "grade": 3,
+        "weight": "0.61",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13290000003.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13290000003.png",
+        "avgPrice": 27847,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10713,
+        "objectID": 13040000009,
+        "objectName": "核心导轨枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.47",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000009.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000009.png",
+        "avgPrice": 10700,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10722,
+        "objectID": 13040000091,
+        "objectName": "SG552枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.13",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000091.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000091.png",
+        "avgPrice": 3465,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10697,
+        "objectID": 13040000092,
+        "objectName": "SMG45枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.15",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000092.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000092.png",
+        "avgPrice": 3420,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10698,
+        "objectID": 13040000104,
+        "objectName": "实用稳定枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.53",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000104.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000104.png",
+        "avgPrice": 3356,
+        "accDetail": {
+            "recoil": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10723,
+        "objectID": 13040000105,
+        "objectName": "实用战术枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.54",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000105.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000105.png",
+        "avgPrice": 10524,
+        "accDetail": {
+            "recoil": 4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+4",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10703,
+        "objectID": 13040000106,
+        "objectName": "实用轻型枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.47",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000106.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000106.png",
+        "avgPrice": 3182,
+        "accDetail": {
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10716,
+        "objectID": 13040000114,
+        "objectName": "M16A4稳定枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.51",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000114.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000114.png",
+        "avgPrice": 16735,
+        "accDetail": {
+            "recoil": -6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10689,
+        "objectID": 13040000116,
+        "objectName": "AK聚合物枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.48",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000116.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000116.png",
+        "avgPrice": 3348,
+        "accDetail": {
+            "recoil": 1,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10690,
+        "objectID": 13040000117,
+        "objectName": "AK折叠枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.53",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000117.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000117.png",
+        "avgPrice": 13324,
+        "accDetail": {
+            "controlSpeed": 5,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+5",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10694,
+        "objectID": 13040000119,
+        "objectName": "AK骨架枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.43",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000119.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000119.png",
+        "avgPrice": 3372,
+        "accDetail": {
+            "recoil": -3,
+            "controlSpeed": 8,
+            "controlStable": -3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10706,
+        "objectID": 13040000127,
+        "objectName": "MP5尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.35",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000127.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000127.png",
+        "avgPrice": 3424,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10700,
+        "objectID": 13040000128,
+        "objectName": "G3伸缩枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.42",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000128.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000128.png",
+        "avgPrice": 3366,
+        "accDetail": {
+            "recoil": 1,
+            "controlSpeed": 3,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10686,
+        "objectID": 13040000129,
+        "objectName": "MP5K折叠枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.47",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000129.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000129.png",
+        "avgPrice": 16529,
+        "accDetail": {
+            "recoil": 3,
+            "controlStable": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10711,
+        "objectID": 13040000130,
+        "objectName": "UZI枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.54",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000130.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000130.png",
+        "avgPrice": 4142,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": 4,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "操控速度+4",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "额外举镜瞄准时移速",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10718,
+        "objectID": 13040000138,
+        "objectName": "M249尾盖",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.62",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000138.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000138.png",
+        "avgPrice": 5372,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10724,
+        "objectID": 13040000172,
+        "objectName": "AK枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.2",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000172.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000172.png",
+        "avgPrice": 1679,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10727,
+        "objectID": 13040000178,
+        "objectName": ".357左轮逐风者枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.35",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000178.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000178.png",
+        "avgPrice": 10506,
+        "accDetail": {
+            "controlStable": 8,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+8",
+                        "batteryValue": 4,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10712,
+        "objectID": 13040000179,
+        "objectName": "M4缓冲托芯",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.33",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000179.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000179.png",
+        "avgPrice": 5311,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 12,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+12",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10850,
+        "objectID": 13040000189,
+        "objectName": "G3稳定枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000189.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000189.png",
+        "avgPrice": 13341,
+        "accDetail": {
+            "recoil": 5,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+5",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10851,
+        "objectID": 13040000190,
+        "objectName": "MP5伸缩枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000190.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000190.png",
+        "avgPrice": 13240,
+        "accDetail": {
+            "hipShot": 8,
+            "controlSpeed": 2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+8",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11002,
+        "objectID": 13040000193,
+        "objectName": "SCAR-H枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000193.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000193.png",
+        "avgPrice": 5352,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11004,
+        "objectID": 13040000195,
+        "objectName": "SR-3M枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000195.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000195.png",
+        "avgPrice": 5328,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11006,
+        "objectID": 13040000197,
+        "objectName": "UZI枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000197.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000197.png",
+        "avgPrice": 1673,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11007,
+        "objectID": 13040000198,
+        "objectName": "PKM枪托尾盖",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.1",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000198.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000198.png",
+        "avgPrice": 5338,
+        "accDetail": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度+12",
+                        "batteryValue": 6,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制-10",
+                        "batteryValue": -5,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-4",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12265,
+        "objectID": 13040000206,
+        "objectName": "杠杆式步枪稳固狙击枪托",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000206.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000206.png",
+        "avgPrice": 14018,
+        "accDetail": {
+            "recoil": 2,
+            "controlSpeed": -2,
+            "controlStable": 6,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "据枪稳定性+6",
+                        "batteryValue": 3,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "后坐力控制+2",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12266,
+        "objectID": 13040000207,
+        "objectName": "杠杆式步枪无托后握把",
+        "length": 2,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.3",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000207.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000207.png",
+        "avgPrice": 16436,
+        "accDetail": {
+            "hipShot": 32,
+            "controlSpeed": -2,
+            "controlStable": -2,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "腰际射击精度+32",
+                        "batteryValue": 5,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    },
+                    {
+                        "value": "据枪稳定性-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12434,
+        "objectID": 13040000225,
+        "objectName": "QR高性能后托",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.53",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13040000225.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13040000225.png",
+        "avgPrice": 47493,
+        "accDetail": {
+            "recoil": 3,
+            "hipShot": 16,
+            "controlSpeed": -2,
+            "controlStable": 3,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "腰际射击精度+16",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-2",
+                        "batteryValue": -1,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10708,
+        "objectID": 13240000006,
+        "objectName": "AK枪托缓冲垫",
+        "length": 1,
+        "width": 1,
+        "grade": 2,
+        "weight": "0.44",
+        "primaryClass": "acc",
+        "secondClass": "accStock",
+        "secondClassCN": "枪托",
+        "pic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/13240000006.png",
+        "prePic": "https:\/\/playerhub.df.qq.com\/playerhub\/60004\/object\/p_13240000006.png",
+        "avgPrice": 2147,
+        "accDetail": {
+            "recoil": 3,
+            "controlSpeed": -3,
+            "controlStable": 1,
+            "quickSeparate": 1,
+            "advantage": {
+                "effectList": [
+                    {
+                        "value": "后坐力控制+3",
+                        "batteryValue": 2,
+                        "batteryColor": "green"
+                    },
+                    {
+                        "value": "据枪稳定性+1",
+                        "batteryValue": 1,
+                        "batteryColor": "green"
+                    }
+                ]
+            },
+            "disadvantage": {
+                "effectList": [
+                    {
+                        "value": "操控速度-3",
+                        "batteryValue": -2,
+                        "batteryColor": "red"
+                    }
+                ]
+            }
+        }
+    }
+]
