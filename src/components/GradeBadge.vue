@@ -8,8 +8,8 @@ defineProps({
 
 const gradeColors = {
   1: '#6a7a6a',
-  2: '#4a7a9a',
-  3: '#5a8a3a',
+  2: '#5a8a3a',
+  3: '#4a7a9a',
   4: '#8a7a2a',
   5: '#aa5a2a',
   6: '#ca2a4a'

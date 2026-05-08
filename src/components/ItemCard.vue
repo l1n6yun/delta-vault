@@ -1,7 +1,8 @@
 <script setup>
+import { computed } from 'vue'
 import GradeBadge from './GradeBadge.vue'
 
-defineProps({
+const props = defineProps({
   item: {
     type: Object,
     required: true
@@ -13,6 +14,13 @@ defineProps({
 })
 
 defineEmits(['click'])
+
+const cellValue = computed(() => {
+  if (!props.item.avgPrice || !props.item.length || !props.item.width) return 0
+  const cells = props.item.length * props.item.width
+  if (cells <= 0) return 0
+  return Math.round(props.item.avgPrice / cells)
+})
 </script>
 
 <template>
@@ -29,9 +37,10 @@ defineEmits(['click'])
       <h3 class="card-title">{{ item.objectName }}</h3>
       <p class="card-desc" v-if="item.desc">{{ item.desc }}</p>
       <div class="card-footer">
-        <span class="card-price" v-if="item.avgPrice > 0">
-          {{ item.avgPrice.toLocaleString() }}
-        </span>
+        <div class="card-prices" v-if="item.avgPrice > 0">
+          <span class="card-price">{{ item.avgPrice.toLocaleString() }}</span>
+          <span class="card-cell-value" v-if="cellValue > 0">/{{ cellValue.toLocaleString() }}</span>
+        </div>
         <span class="card-weight">{{ item.weight }} kg</span>
       </div>
     </div>
@@ -147,9 +156,21 @@ defineEmits(['click'])
   border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
+.card-prices {
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+
 .card-price {
   font-size: 0.8rem;
   color: #ffd700;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.card-cell-value {
+  font-size: 0.65rem;
+  color: #ff9f43;
   font-family: 'JetBrains Mono', monospace;
 }
 

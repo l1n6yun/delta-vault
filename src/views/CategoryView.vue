@@ -27,6 +27,9 @@ const loading = ref(true)
 const searchQuery = ref('')
 const selectedGrade = ref(0)
 const selectedItem = ref(null)
+const sortBy = ref('default') // default, price, cellValue
+const sortOrder = ref('desc') // desc, asc
+const selectedType = ref('')
 
 const filteredItems = computed(() => {
   let result = items.value
@@ -43,17 +46,49 @@ const filteredItems = computed(() => {
     result = result.filter(item => item.grade === selectedGrade.value)
   }
   
+  if (selectedType.value) {
+    result = result.filter(item => item.secondClass === selectedType.value)
+  }
+  
+  // 排序
+  if (sortBy.value === 'price') {
+    result = [...result].sort((a, b) => {
+      return sortOrder.value === 'desc' 
+        ? (b.avgPrice || 0) - (a.avgPrice || 0)
+        : (a.avgPrice || 0) - (b.avgPrice || 0)
+    })
+  } else if (sortBy.value === 'cellValue') {
+    result = [...result].sort((a, b) => {
+      const cellsA = (a.length || 1) * (a.width || 1)
+      const cellsB = (b.length || 1) * (b.width || 1)
+      const valA = cellsA > 0 ? (a.avgPrice || 0) / cellsA : 0
+      const valB = cellsB > 0 ? (b.avgPrice || 0) / cellsB : 0
+      return sortOrder.value === 'desc' ? valB - valA : valA - valB
+    })
+  }
+  
   return result
+})
+
+const types = computed(() => {
+  const typeSet = new Set()
+  items.value.forEach(item => {
+    if (item.secondClass) typeSet.add(item.secondClass)
+  })
+  return Array.from(typeSet).sort()
 })
 
 const grades = [1, 2, 3, 4, 5, 6]
 const gradeNames = ['普通', '优秀', '精良', '史诗', '传说', '神话']
-const showGradeFilter = computed(() => !['weapons', 'items'].includes(props.category))
+const showGradeFilter = computed(() => ['weapons', 'items'].includes(props.category))
 
 const loadData = async () => {
   loading.value = true
   searchQuery.value = ''
   selectedGrade.value = 0
+  selectedType.value = ''
+  sortBy.value = 'default'
+  sortOrder.value = 'desc'
   try {
     const data = await import(`../data/${props.category}.json`)
     items.value = data.default
@@ -62,6 +97,15 @@ const loadData = async () => {
     items.value = []
   }
   loading.value = false
+}
+
+const toggleSort = (type) => {
+  if (sortBy.value === type) {
+    sortOrder.value = sortOrder.value === 'desc' ? 'asc' : 'desc'
+  } else {
+    sortBy.value = type
+    sortOrder.value = 'desc'
+  }
 }
 
 onMounted(loadData)
@@ -110,6 +154,30 @@ const closeDetail = () => {
             @click="selectedGrade = selectedGrade === grade ? 0 : grade"
           >
             {{ gradeNames[grade - 1] }}
+          </button>
+        </div>
+        
+        <div class="type-filter" v-if="types.length > 1">
+          <select v-model="selectedType" class="type-select">
+            <option value="">全部类型</option>
+            <option v-for="type in types" :key="type" :value="type">
+              {{ type }}
+            </option>
+          </select>
+        </div>
+        
+        <div class="sort-buttons">
+          <button 
+            :class="['sort-btn', { active: sortBy === 'price' }]"
+            @click="toggleSort('price')"
+          >
+            总价 {{ sortBy === 'price' ? (sortOrder === 'desc' ? '↓' : '↑') : '' }}
+          </button>
+          <button 
+            :class="['sort-btn', { active: sortBy === 'cellValue' }]"
+            @click="toggleSort('cellValue')"
+          >
+            单格 {{ sortBy === 'cellValue' ? (sortOrder === 'desc' ? '↓' : '↑') : '' }}
           </button>
         </div>
         
@@ -263,6 +331,55 @@ const closeDetail = () => {
 }
 
 .grade-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #000;
+  font-weight: 600;
+}
+
+.type-filter {
+  display: flex;
+  gap: 8px;
+}
+
+.type-select {
+  padding: 8px 16px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #8a9a8a;
+  font-size: 0.8rem;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s;
+}
+
+.type-select:hover,
+.type-select:focus {
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.sort-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.sort-btn {
+  padding: 8px 16px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #8a9a8a;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sort-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.sort-btn.active {
   background: var(--accent);
   border-color: var(--accent);
   color: #000;

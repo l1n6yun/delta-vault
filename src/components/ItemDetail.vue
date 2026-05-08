@@ -23,31 +23,40 @@ const isCollectible = computed(() => {
   return !isEquipment.value && !isAccessory.value && !isWeapon.value
 })
 
-const protectStats = computed(() => {
+const protectDetails = computed(() => {
   if (!isEquipment.value || !props.item.protectDetail) return []
   const detail = props.item.protectDetail
-  const stats = []
+  const details = []
   
   if (detail.durability !== undefined) {
-    stats.push({ label: '耐久度', value: detail.durability, max: 100 })
+    details.push({ label: '耐久度', value: detail.durability })
   }
   if (detail.protectLevel !== undefined) {
-    stats.push({ label: '防护等级', value: detail.protectLevel, max: 6 })
+    details.push({ label: '防护等级', value: detail.protectLevel })
   }
   if (detail.capacity !== undefined) {
-    stats.push({ label: '容量', value: detail.capacity, max: 60 })
+    details.push({ label: '容量', value: detail.capacity })
   }
   if (detail.aimSpeed?.percent !== undefined) {
-    stats.push({ label: '瞄准速度', value: detail.aimSpeed.percent, max: 5, color: 'red' })
+    details.push({ label: '瞄准速度', value: detail.aimSpeed.percent + '%' })
   }
   if (detail.moveSpeed?.percent !== undefined) {
-    stats.push({ label: '移动速度', value: detail.moveSpeed.percent, max: 5, color: 'red' })
+    details.push({ label: '移动速度', value: detail.moveSpeed.percent + '%' })
   }
   if (detail.soundEffect?.percent !== undefined) {
-    stats.push({ label: '音效', value: detail.soundEffect.percent, max: 10, color: 'yellow' })
+    details.push({ label: '拾音能力', value: detail.soundEffect.percent + '%' })
+  }
+  if (detail.faceMask) {
+    details.push({ label: '面部防护', value: detail.faceMask.value || detail.faceMask })
+  }
+  if (detail.protectArea) {
+    details.push({ label: '防护区域', value: detail.protectArea })
+  }
+  if (detail.repairEfficiency) {
+    details.push({ label: '修复效率', value: detail.repairEfficiency })
   }
   
-  return stats
+  return details
 })
 
 const accessoryStats = computed(() => {
@@ -183,36 +192,10 @@ const cellValue = computed(() => {
 
       <div class="detail-body" v-if="isEquipment">
         <h3 class="section-title">防护属性</h3>
-        <div class="stats-grid">
-          <div v-for="stat in protectStats" :key="stat.label" class="stat-row">
-            <span class="stat-name">{{ stat.label }}</span>
-            <div class="stat-bar-container">
-              <div class="stat-bar-bg">
-                <div 
-                  class="stat-bar-fill" 
-                  :style="{ 
-                    width: `${Math.abs(stat.value) / stat.max * 100}%`,
-                    backgroundColor: stat.value > 0 ? '#00ff41' : '#ff4444'
-                  }"
-                ></div>
-              </div>
-              <span class="stat-num">{{ stat.value }}</span>
-            </div>
-          </div>
-        </div>
-        
-        <div class="protect-details" v-if="item.protectDetail.faceMask">
-          <div class="detail-item">
-            <span class="detail-label">面部防护</span>
-            <span class="detail-value">{{ item.protectDetail.faceMask.value || item.protectDetail.faceMask }}</span>
-          </div>
-          <div class="detail-item" v-if="item.protectDetail.protectArea">
-            <span class="detail-label">防护区域</span>
-            <span class="detail-value">{{ item.protectDetail.protectArea }}</span>
-          </div>
-          <div class="detail-item" v-if="item.protectDetail.repairEfficiency">
-            <span class="detail-label">修复效率</span>
-            <span class="detail-value">{{ item.protectDetail.repairEfficiency }}</span>
+        <div class="protect-details" v-if="protectDetails.length > 0">
+          <div v-for="detail in protectDetails" :key="detail.label" class="detail-item">
+            <span class="detail-label">{{ detail.label }}</span>
+            <span class="detail-value">{{ detail.value }}</span>
           </div>
         </div>
       </div>
