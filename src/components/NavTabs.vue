@@ -7,6 +7,7 @@ const route = useRoute()
 const tabs = [
   { path: '/', name: '首页', key: 'home' },
   { path: '/weapons', name: '武器库', key: 'weapons' },
+  { path: '/ammo', name: '弹药库', key: 'ammo' },
   { path: '/bag', name: '背包', key: 'bag' },
   { path: '/helmet', name: '头盔', key: 'helmet' },
   { path: '/vest', name: '护甲', key: 'vest' },

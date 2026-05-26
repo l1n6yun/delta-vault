@@ -13,6 +13,12 @@ const routes = [
     props: { category: 'weapons', title: '武器库', color: '#00d4ff' }
   },
   {
+    path: '/ammo',
+    name: 'ammo',
+    component: () => import('../views/CategoryView.vue'),
+    props: { category: 'ammo', title: '弹药库', color: '#ff9500' }
+  },
+  {
     path: '/items',
     name: 'items',
     component: () => import('../views/CategoryView.vue'),

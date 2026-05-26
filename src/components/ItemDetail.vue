@@ -19,8 +19,27 @@ defineEmits(['close'])
 const isEquipment = computed(() => props.item.primaryClass === 'protect')
 const isAccessory = computed(() => props.item.primaryClass === 'acc')
 const isWeapon = computed(() => props.item.primaryClass === 'gun')
+const isAmmo = computed(() => props.item.primaryClass === 'ammo')
 const isCollectible = computed(() => {
-  return !isEquipment.value && !isAccessory.value && !isWeapon.value
+  return !isEquipment.value && !isAccessory.value && !isWeapon.value && !isAmmo.value
+})
+
+const ammoDetails = computed(() => {
+  if (!isAmmo.value || !props.item.ammoDetail) return []
+  const detail = props.item.ammoDetail
+  const details = []
+  
+  if (detail.penetrationLevel !== undefined) {
+    details.push({ label: '穿透等级', value: detail.penetrationLevel })
+  }
+  if (detail.harmRatio !== undefined) {
+    details.push({ label: '伤害倍率', value: detail.harmRatio + '%' })
+  }
+  if (detail.armorHarmLevel) {
+    details.push({ label: '护甲伤害', value: detail.armorHarmLevel })
+  }
+  
+  return details
 })
 
 const protectDetails = computed(() => {
@@ -264,6 +283,16 @@ const cellValue = computed(() => {
         
         <div class="protect-details" v-if="weaponDetails.length > 0">
           <div v-for="detail in weaponDetails" :key="detail.label" class="detail-item">
+            <span class="detail-label">{{ detail.label }}</span>
+            <span class="detail-value">{{ detail.value }}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="detail-body" v-if="isAmmo">
+        <h3 class="section-title">弹药属性</h3>
+        <div class="protect-details" v-if="ammoDetails.length > 0">
+          <div v-for="detail in ammoDetails" :key="detail.label" class="detail-item">
             <span class="detail-label">{{ detail.label }}</span>
             <span class="detail-value">{{ detail.value }}</span>
           </div>
